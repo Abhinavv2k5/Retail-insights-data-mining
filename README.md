@@ -30,7 +30,4 @@ Using a structured dataset of customer transactions, we implement key data minin
 - ⚠️ **Outlier Detection**: Identifying unusual transactions for fraud detection.
 - 📊 **Visualizations**: Graphs, heatmaps, and summary tables for clear insight presentation.
 
----
-
-## 📂 Project Structure
 
