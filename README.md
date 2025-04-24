@@ -1,6 +1,6 @@
 # Retail Insights: A Comprehensive Data Mining Approach to Customer Behavior Analysis
 
-## 📊 Overview
+## Overview
 
 In the modern digital economy, retailers are flooded with data, but only those who can turn this raw information into actionable insights can maintain a competitive edge. This project, titled **"Retail Insights: A Comprehensive Data Mining Approach to Customer Behavior Analysis"**, demonstrates how data mining techniques can be applied to real-world retail transaction data to extract meaningful business intelligence.
 
@@ -8,7 +8,7 @@ Using a structured dataset of customer transactions, we implement key data minin
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Pandas**
@@ -20,14 +20,14 @@ Using a structured dataset of customer transactions, we implement key data minin
 
 ---
 
-## 🔍 Features
+## Features
 
-- 📌 **Data Cleaning & Preprocessing**: Removal of missing IDs, negative values, and return transactions.
-- 📈 **Exploratory Data Analysis (EDA)**: Analysis of sales trends, customer activity, and product popularity.
-- 🔗 **Association Rule Mining**: Using Apriori to find frequently co-purchased items.
-- 🎯 **Classification**: Predicting high-value customers with Decision Trees.
-- 🧬 **Clustering**: Segmenting customer base using KMeans.
-- ⚠️ **Outlier Detection**: Identifying unusual transactions for fraud detection.
-- 📊 **Visualizations**: Graphs, heatmaps, and summary tables for clear insight presentation.
+- **Data Cleaning & Preprocessing**: Removal of missing IDs, negative values, and return transactions.
+- **Exploratory Data Analysis (EDA)**: Analysis of sales trends, customer activity, and product popularity.
+- **Association Rule Mining**: Using Apriori to find frequently co-purchased items.
+- **Classification**: Predicting high-value customers with Decision Trees.
+- **Clustering**: Segmenting customer base using KMeans.
+- **Outlier Detection**: Identifying unusual transactions for fraud detection.
+- **Visualizations**: Graphs, heatmaps, and summary tables for clear insight presentation.
 
 
